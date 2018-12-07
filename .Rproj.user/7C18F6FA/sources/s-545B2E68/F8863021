@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543672769969.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F8863021",
+    "lastKnownWriteTime" : 1543925008,
+    "last_content_update" : 1543928627674,
+    "path" : "~/Documents/R/Assign/assign_one/mysql-r.R",
+    "project_path" : "mysql-r.R",
+    "properties" : {
+        "cursorPosition" : "8,43",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
